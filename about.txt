@@ -1,4 +1,5 @@
 I am Elias Chauke
-I am currently pirsuing BCA at Aditya Degree College
+I am currently pirsuing BCA at Aditya Degree College in Kakinada Andhra Pradesh
 I learned that GitHUb is a version control system used to track files or managing the projects within a local system.
+
 Github acts as a container which is used to store projects online by the help of repositories (online folders)
